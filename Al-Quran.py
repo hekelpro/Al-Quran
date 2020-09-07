@@ -66,5 +66,5 @@ def main():
 if __name__=='__main__':
 	main()
 
-# <!-- XIUZCODE | OPEN SOURCE CODE
+# <!-- XIUZCODE | OPEN SOURCE TEAM
 # <!-- THANKS TO ALL MEMBER XIUZCODE
