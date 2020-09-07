@@ -41,7 +41,7 @@ def main():
 			print("\x1b[1;92m            "+find1)
 			print("\x1b[1;97m="*45)
 			print("\x1b[1;97mTulisan Arab: \n")
-			ayat, bacaan, arti = 0, 0, 0
+	
 			for al in scrap.find_all('span', class_="ayat"):
 				ayat += 1
 				al = (al.text)
